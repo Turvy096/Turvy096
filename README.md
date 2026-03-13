@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm a passionate Flutter developer specializing in building sleek, high-performance Android, iOS, and Web applications. With expertise in GetX, Firebase, and modern UI/UX, I create apps that are not only functional but also visually stunning.<br><br>🔹 Freelancer helping businesses & individuals bring their app ideas to life<br>🔹 Open Source Contributor – sharing knowledge with the dev community<br>🔹 Tech Enthusiast – always learning & exploring new tools & frameworks
+Hey there! I'm a passionate Flutter developer specializing in building sleek, high-performance Android, iOS, and Web applications. With expertise in GetX, Firebase, and modern UI/UX, I create apps that are not only functional but also visually stunning.<br><br>🔹 Freelancer helping businesses & individuals bring their app ideas to life<br>🔹 Open Source Contributor – sharing knowledge with the dev community<br>🔹 Tech Enthusiast – always learning & exploring new tools & frameworks<br>🔹 Quality Assurance Tester - always making sure I deliver satisfaction to the client with zero bugs
 
 
 ## 🌐 Socials:
